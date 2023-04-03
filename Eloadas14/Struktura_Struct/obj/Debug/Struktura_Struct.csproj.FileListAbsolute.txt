@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\bin\Debug\Struktura_Struct.exe.config
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\bin\Debug\Struktura_Struct.exe
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\bin\Debug\Struktura_Struct.pdb
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\obj\Debug\Struktura_Struct.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\obj\Debug\Struktura_Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\obj\Debug\Struktura_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\obj\Debug\Struktura_Struct.exe
+C:\Users\Tanulo\source\repos\Eloadas14\Struktura_Struct\obj\Debug\Struktura_Struct.pdb

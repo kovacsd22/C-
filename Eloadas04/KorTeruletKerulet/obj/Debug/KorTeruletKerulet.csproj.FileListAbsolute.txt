@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\bin\Debug\KorTeruletKerulet.exe.config
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\bin\Debug\KorTeruletKerulet.exe
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\bin\Debug\KorTeruletKerulet.pdb
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\obj\Debug\KorTeruletKerulet.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\obj\Debug\KorTeruletKerulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\obj\Debug\KorTeruletKerulet.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\obj\Debug\KorTeruletKerulet.exe
+C:\Users\Tanulo\source\repos\Eloadas04\KorTeruletKerulet\obj\Debug\KorTeruletKerulet.pdb

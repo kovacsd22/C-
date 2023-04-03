@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\bin\Debug\univerzalislotto.exe.config
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\bin\Debug\univerzalislotto.exe
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\bin\Debug\univerzalislotto.pdb
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\obj\Debug\univerzalislotto.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\obj\Debug\univerzalislotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\obj\Debug\univerzalislotto.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\obj\Debug\univerzalislotto.exe
+C:\Users\Tanulo\source\repos\univerzalislotto\univerzalislotto\obj\Debug\univerzalislotto.pdb

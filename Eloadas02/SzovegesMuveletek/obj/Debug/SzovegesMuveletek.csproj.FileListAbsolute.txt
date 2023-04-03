@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\bin\Debug\SzovegesMuveletek.exe.config
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\bin\Debug\SzovegesMuveletek.exe
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\bin\Debug\SzovegesMuveletek.pdb
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\obj\Debug\SzovegesMuveletek.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\obj\Debug\SzovegesMuveletek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\obj\Debug\SzovegesMuveletek.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\obj\Debug\SzovegesMuveletek.exe
+C:\Users\Tanulo\source\repos\Eloadas02\SzovegesMuveletek\obj\Debug\SzovegesMuveletek.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\bin\Debug\DerekSzoguHaromszogE.exe.config
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\bin\Debug\DerekSzoguHaromszogE.exe
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\bin\Debug\DerekSzoguHaromszogE.pdb
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\obj\Debug\DerekSzoguHaromszogE.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\obj\Debug\DerekSzoguHaromszogE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\obj\Debug\DerekSzoguHaromszogE.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\obj\Debug\DerekSzoguHaromszogE.exe
+C:\Users\Tanulo\source\repos\Eloadas04\DerekSzoguHaromszogE\obj\Debug\DerekSzoguHaromszogE.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\bin\Debug\KivetelKezetes_Struct.exe.config
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\bin\Debug\KivetelKezetes_Struct.exe
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\bin\Debug\KivetelKezetes_Struct.pdb
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\obj\Debug\KivetelKezetes_Struct.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\obj\Debug\KivetelKezetes_Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\obj\Debug\KivetelKezetes_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\obj\Debug\KivetelKezetes_Struct.exe
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_Struct\obj\Debug\KivetelKezetes_Struct.pdb

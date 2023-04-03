@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\bin\Debug\Stack_verem.exe.config
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\bin\Debug\Stack_verem.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\bin\Debug\Stack_verem.pdb
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\obj\Debug\Stack_verem.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\obj\Debug\Stack_verem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\obj\Debug\Stack_verem.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\obj\Debug\Stack_verem.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Stack_verem\obj\Debug\Stack_verem.pdb

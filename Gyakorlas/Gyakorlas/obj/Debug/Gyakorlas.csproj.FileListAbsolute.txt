@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.exe.config
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.exe
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\bin\Debug\Gyakorlas.pdb
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.exe
+C:\Users\Tanulo\source\repos\Gyakorlas\Gyakorlas\obj\Debug\Gyakorlas.pdb

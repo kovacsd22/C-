@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\bin\Debug\Tomb_Vektor.exe.config
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\bin\Debug\Tomb_Vektor.exe
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\bin\Debug\Tomb_Vektor.pdb
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\obj\Debug\Tomb_Vektor.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\obj\Debug\Tomb_Vektor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\obj\Debug\Tomb_Vektor.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\obj\Debug\Tomb_Vektor.exe
+C:\Users\Tanulo\source\repos\Eloadas06\Tomb_Vektor\obj\Debug\Tomb_Vektor.pdb

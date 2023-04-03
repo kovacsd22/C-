@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\bin\Debug\Veletlenszam_verem.exe.config
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\bin\Debug\Veletlenszam_verem.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\bin\Debug\Veletlenszam_verem.pdb
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\obj\Debug\Veletlenszam_verem.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\obj\Debug\Veletlenszam_verem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\obj\Debug\Veletlenszam_verem.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\obj\Debug\Veletlenszam_verem.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Veletlenszam_verem\obj\Debug\Veletlenszam_verem.pdb

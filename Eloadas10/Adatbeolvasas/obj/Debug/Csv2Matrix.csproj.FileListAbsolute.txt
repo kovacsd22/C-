@@ -1,0 +1,9 @@
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\bin\Debug\kektura.csv
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\bin\Debug\Adatbeolvasas.exe.config
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\bin\Debug\Adatbeolvasas.exe
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\bin\Debug\Adatbeolvasas.pdb
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\obj\Debug\Csv2Matrix.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\obj\Debug\Csv2Matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\obj\Debug\Csv2Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\obj\Debug\Adatbeolvasas.exe
+C:\Users\Tanulo\source\repos\Eloadas10\Adatbeolvasas\obj\Debug\Adatbeolvasas.pdb

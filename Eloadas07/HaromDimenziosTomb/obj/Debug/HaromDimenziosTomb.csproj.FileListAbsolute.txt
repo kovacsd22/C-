@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\bin\Debug\HaromDimenziosTomb.exe.config
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\bin\Debug\HaromDimenziosTomb.exe
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\bin\Debug\HaromDimenziosTomb.pdb
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\obj\Debug\HaromDimenziosTomb.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\obj\Debug\HaromDimenziosTomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\obj\Debug\HaromDimenziosTomb.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\obj\Debug\HaromDimenziosTomb.exe
+C:\Users\Tanulo\source\repos\Eloadas07\HaromDimenziosTomb\obj\Debug\HaromDimenziosTomb.pdb

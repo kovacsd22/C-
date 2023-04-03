@@ -1,0 +1,9 @@
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\bin\Debug\kektura.csv
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\bin\Debug\Osztaly03_SajatKivetellel.exe.config
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\bin\Debug\Osztaly03_SajatKivetellel.exe
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\bin\Debug\Osztaly03_SajatKivetellel.pdb
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\obj\Debug\Osztaly03_SajatKivetellel.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\obj\Debug\Osztaly03_SajatKivetellel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\obj\Debug\Osztaly03_SajatKivetellel.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\obj\Debug\Osztaly03_SajatKivetellel.exe
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly03_SajatKivetellel\obj\Debug\Osztaly03_SajatKivetellel.pdb

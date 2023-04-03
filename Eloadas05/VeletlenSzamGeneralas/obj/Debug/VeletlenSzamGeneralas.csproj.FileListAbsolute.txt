@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\bin\Debug\VeletlenSzamGeneralas.exe.config
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\bin\Debug\VeletlenSzamGeneralas.exe
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\bin\Debug\VeletlenSzamGeneralas.pdb
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\obj\Debug\VeletlenSzamGeneralas.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\obj\Debug\VeletlenSzamGeneralas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\obj\Debug\VeletlenSzamGeneralas.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\obj\Debug\VeletlenSzamGeneralas.exe
+C:\Users\Tanulo\source\repos\Eloadas05\VeletlenSzamGeneralas\obj\Debug\VeletlenSzamGeneralas.pdb

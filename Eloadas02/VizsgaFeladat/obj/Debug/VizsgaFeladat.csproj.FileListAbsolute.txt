@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\bin\Debug\VizsgaFeladat.exe.config
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\bin\Debug\VizsgaFeladat.exe
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\bin\Debug\VizsgaFeladat.pdb
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\obj\Debug\VizsgaFeladat.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\obj\Debug\VizsgaFeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\obj\Debug\VizsgaFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\obj\Debug\VizsgaFeladat.exe
+C:\Users\Tanulo\source\repos\Eloadas02\VizsgaFeladat\obj\Debug\VizsgaFeladat.pdb

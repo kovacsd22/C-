@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\bin\Debug\Ciklusok.exe.config
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\bin\Debug\Ciklusok.exe
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\bin\Debug\Ciklusok.pdb
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\obj\Debug\Ciklusok.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\obj\Debug\Ciklusok.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\obj\Debug\Ciklusok.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\obj\Debug\Ciklusok.exe
+C:\Users\Tanulo\source\repos\Eloadas02\Ciklusok\obj\Debug\Ciklusok.pdb

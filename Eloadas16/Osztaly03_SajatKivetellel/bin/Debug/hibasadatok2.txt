@@ -1,0 +1,4 @@
+Hibás sor száma: 10 Hibás adat: Zalaszanto, romai katolikus templom
+Hibás sor száma: 13 Hibás adat: Gyongyosi csarda
+Hibás sor száma: 15 Hibás adat: Heviz, leteres az autobuszallomashoz
+Hibás sor száma: 17 Hibás adat: Keszthely, leteres a vasutallomashoz

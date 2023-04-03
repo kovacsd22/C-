@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\bin\Debug\TeglaTest.exe.config
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\bin\Debug\TeglaTest.exe
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\bin\Debug\TeglaTest.pdb
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\obj\Debug\TeglaTest.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\obj\Debug\TeglaTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\obj\Debug\TeglaTest.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\obj\Debug\TeglaTest.exe
+C:\Users\Tanulo\source\repos\Eloadas04\TeglaTest\obj\Debug\TeglaTest.pdb

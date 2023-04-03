@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\bin\Debug\Dolgozat.exe.config
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\bin\Debug\Dolgozat.exe
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\bin\Debug\Dolgozat.pdb
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\obj\Debug\kisdolgozat_JuhászBalázs01.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\obj\Debug\kisdolgozat_JuhászBalázs01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\obj\Debug\kisdolgozat_JuhászBalázs01.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\obj\Debug\Dolgozat.exe
+C:\Users\Tanulo\source\repos\Eloadas06\Dolgozat\obj\Debug\Dolgozat.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\bin\Debug\SwitchCase.exe
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\obj\Debug\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\obj\Debug\SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\obj\Debug\SwitchCase.exe
+C:\Users\Tanulo\source\repos\Eloadas03\SwitchCase\obj\Debug\SwitchCase.pdb

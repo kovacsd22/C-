@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\bin\Debug\AllatokStruktura.exe.config
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\bin\Debug\AllatokStruktura.exe
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\bin\Debug\AllatokStruktura.pdb
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\obj\Debug\AllatokStruktura.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\obj\Debug\AllatokStruktura.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\obj\Debug\AllatokStruktura.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\obj\Debug\AllatokStruktura.exe
+C:\Users\Tanulo\source\repos\Hazi\AllatokStruktura\obj\Debug\AllatokStruktura.pdb

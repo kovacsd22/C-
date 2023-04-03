@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\bin\Debug\Queuq_sor.exe.config
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\bin\Debug\Queuq_sor.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\bin\Debug\Queuq_sor.pdb
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\obj\Debug\Queuq_sor.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\obj\Debug\Queuq_sor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\obj\Debug\Queuq_sor.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\obj\Debug\Queuq_sor.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Queuq_sor\obj\Debug\Queuq_sor.pdb

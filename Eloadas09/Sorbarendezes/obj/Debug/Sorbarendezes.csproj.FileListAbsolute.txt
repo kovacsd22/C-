@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\bin\Debug\Sorbarendezes.exe.config
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\bin\Debug\Sorbarendezes.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\bin\Debug\Sorbarendezes.pdb
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\obj\Debug\Sorbarendezes.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\obj\Debug\Sorbarendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\obj\Debug\Sorbarendezes.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\obj\Debug\Sorbarendezes.exe
+C:\Users\Tanulo\source\repos\Eloadas09\Sorbarendezes\obj\Debug\Sorbarendezes.pdb

@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\bin\Debug\KivetelKezetes_TryCatch02.exe.config
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\bin\Debug\KivetelKezetes_TryCatch02.exe
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\bin\Debug\KivetelKezetes_TryCatch02.pdb
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\obj\Debug\KivetelKezetes_TryCatch02.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\obj\Debug\KivetelKezetes_TryCatch02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\obj\Debug\KivetelKezetes_TryCatch02.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\obj\Debug\KivetelKezetes_TryCatch02.exe
+C:\Users\Tanulo\source\repos\KivetelKezetes_TryCatch01\KivetelKezetes_TryCatch02\obj\Debug\KivetelKezetes_TryCatch02.pdb

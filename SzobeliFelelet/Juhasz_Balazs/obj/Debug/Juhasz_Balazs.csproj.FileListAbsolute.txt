@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\bin\Debug\Juhasz_Balazs.exe.config
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\bin\Debug\Juhasz_Balazs.exe
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\bin\Debug\Juhasz_Balazs.pdb
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\obj\Debug\Juhasz_Balazs.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\obj\Debug\Juhasz_Balazs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\obj\Debug\Juhasz_Balazs.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\obj\Debug\Juhasz_Balazs.exe
+C:\Users\Tanulo\source\repos\SzobeliFelelet\Juhasz_Balazs\obj\Debug\Juhasz_Balazs.pdb

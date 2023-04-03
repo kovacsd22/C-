@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\bin\Debug\BerekDolgozat.exe.config
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\bin\Debug\BerekDolgozat.exe
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\bin\Debug\BerekDolgozat.pdb
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\obj\Debug\BerekDolgozat.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\obj\Debug\BerekDolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\obj\Debug\BerekDolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\obj\Debug\BerekDolgozat.exe
+C:\Users\Tanulo\source\repos\BerekDolgozat\BerekDolgozat\obj\Debug\BerekDolgozat.pdb

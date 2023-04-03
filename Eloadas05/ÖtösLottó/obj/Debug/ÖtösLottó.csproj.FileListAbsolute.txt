@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\bin\Debug\ÖtösLottó.exe.config
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\bin\Debug\ÖtösLottó.exe
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\bin\Debug\ÖtösLottó.pdb
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\obj\Debug\ÖtösLottó.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\obj\Debug\ÖtösLottó.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\obj\Debug\ÖtösLottó.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\obj\Debug\ÖtösLottó.exe
+C:\Users\Tanulo\source\repos\Eloadas05\ÖtösLottó\obj\Debug\ÖtösLottó.pdb

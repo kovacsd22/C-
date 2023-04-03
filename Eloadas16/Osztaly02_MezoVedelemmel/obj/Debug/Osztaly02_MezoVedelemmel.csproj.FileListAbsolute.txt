@@ -1,0 +1,9 @@
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\bin\Debug\kektura.csv
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\bin\Debug\Osztaly02_MezoVedelemmel.exe.config
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\bin\Debug\Osztaly02_MezoVedelemmel.exe
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\bin\Debug\Osztaly02_MezoVedelemmel.pdb
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\obj\Debug\Osztaly02_MezoVedelemmel.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\obj\Debug\Osztaly02_MezoVedelemmel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\obj\Debug\Osztaly02_MezoVedelemmel.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\obj\Debug\Osztaly02_MezoVedelemmel.exe
+C:\Users\Tanulo\source\repos\Eloadas16\Osztaly02_MezoVedelemmel\obj\Debug\Osztaly02_MezoVedelemmel.pdb

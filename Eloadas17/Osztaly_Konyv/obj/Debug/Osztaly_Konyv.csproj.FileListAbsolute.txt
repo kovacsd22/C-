@@ -1,0 +1,8 @@
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.exe.config
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.exe
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\bin\Debug\Osztaly_Konyv.pdb
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.AssemblyReference.cache
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.exe
+C:\Users\Tanulo\source\repos\Eloadas17\Osztaly_Konyv\obj\Debug\Osztaly_Konyv.pdb
